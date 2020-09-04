@@ -13,6 +13,7 @@
 "Core/Src/sensors_sources/analog_sensors.o"
 "Core/Src/sensors_sources/buzzer.o"
 "Core/Src/sensors_sources/dht11.o"
+"Core/Src/sensors_sources/esp8266.o"
 "Core/Startup/startup_stm32h755zitx.o"
 "Drivers/STM32H7xx_HAL_Driver/stm32h7xx_hal.o"
 "Drivers/STM32H7xx_HAL_Driver/stm32h7xx_hal_adc.o"
