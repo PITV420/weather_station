@@ -1,0 +1,9 @@
+dht11.c:11:6:delay	8	static
+dht11.c:15:6:set_gpio_output	40	static
+dht11.c:22:6:set_gpio_input_pullup	40	static
+dht11.c:29:6:set_gpio_input_nopull	40	static
+dht11.c:36:6:set_gpio_input_pulldown	40	static
+dht11.c:43:6:dht11_init	80	static
+dht11.c:53:9:dht11_response	88	static
+dht11.c:67:9:dht11_read	88	static
+dht11.c:82:6:dht11_run	96	static

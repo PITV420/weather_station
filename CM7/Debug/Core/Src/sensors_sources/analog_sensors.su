@@ -1,0 +1,2 @@
+analog_sensors.c:11:8:analog_sensor	40	static
+analog_sensors.c:20:6:battery_level	56	static
