@@ -1,6 +1,6 @@
 # weather_station
  
- Home made weather station receiver based on the STM32 Microcontroller and ESP8266 Wi-Fi module. Equipped with moisture sensor, motion sensor, LCD 16x2 display
+ Home made weather station transmitter based on the STM32 Microcontroller and ESP8266 Wi-Fi module. Equipped with DHT11 sensor, light sensor, BME280 pressure sensor
 
  STM32-H755ZI-Q is equipped with two CPUs: ARM Cortex-M4 and ARM-Cortex-M7
 
